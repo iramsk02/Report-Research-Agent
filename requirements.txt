@@ -1,0 +1,9 @@
+ipykernel
+langchain
+langchain_groq
+langchain_community
+langchain_core
+requests
+openmeteo-requests
+python-dotenv
+langgraph
